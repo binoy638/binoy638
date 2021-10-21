@@ -16,7 +16,7 @@ Currently learning to build hybrid apps with react native.
 <tr>
 <td align="center" width="20%">
 <span><b><center>Javascript</center></b></span> 
-<img height=60px src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg?uselang=fr"> 
+<img height=60px src="https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/js2.jpg"> 
 </td>
 
 <td align="center" width="20%">
