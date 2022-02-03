@@ -1,11 +1,9 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Binoy Barman, a self-motivated tech enthusiast and fullstack web developer.
+I'm Binoy Barman, a self-motivated tech enthusiast and fullstack web developer from India 🇮🇳.
 </p>
-<p align="center">
-Currently learning to build hybrid apps with react native.
-</p>
+
 
 ## Tech Stack :computer:
 
