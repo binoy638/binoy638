@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Binoy Barman, a self-motivated tech enthusiast and fullstack web developer from India 🇮🇳
+I'm Binoy Barman, a fullstack developer from India 🇮🇳
 </p>
 
 
