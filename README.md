@@ -82,5 +82,5 @@ I'm Binoy Barman, a fullstack developer from India 🇮🇳
 </table>
 <br>
 
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=binoy638&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="binoy638's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoy638&langs_count=7&layout=compact&theme=buefy&hide_border=true" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=binoy638&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="binoy638's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoy638&langs_count=8&layout=compact&theme=buefy&hide_border=true" /></span>
 
