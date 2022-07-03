@@ -75,7 +75,24 @@ I'm Binoy Barman, a fullstack developer from India 🇮🇳
 
 <td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<img height=65px src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>GraphQL</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>PostgreSQL</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>RabbitMQ</center></b></span> 
+<img height=65px src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png"> 
 </td>
 </tr>
 </tbody>
