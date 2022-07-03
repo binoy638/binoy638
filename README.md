@@ -23,7 +23,6 @@ I'm Binoy Barman, a fullstack developer from India 🇮🇳
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJs</center></b></span> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"> 
 </td>
 
@@ -35,7 +34,6 @@ I'm Binoy Barman, a fullstack developer from India 🇮🇳
 </td>
 
 <td align="center" width="20%">
-<span><b><center>ExpressJs</center></b></span> 
 <img height=65px src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"> 
 </td>
 
@@ -48,16 +46,14 @@ I'm Binoy Barman, a fullstack developer from India 🇮🇳
 <tr>
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
 <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
 <img height=65px src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"> 
 </td>
 </tr>
@@ -65,12 +61,12 @@ I'm Binoy Barman, a fullstack developer from India 🇮🇳
 <tr>
 <td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px src="https://cdn-images-1.medium.com/max/1600/1*BXaikL4vYodnbw5LhCuL4w.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img height=65px src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png"> 
 </td>
 
 <td align="center" width="20%">
