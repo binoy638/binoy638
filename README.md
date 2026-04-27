@@ -86,10 +86,8 @@ fun_fact: I debug with print statements and I'm not ashamed
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=binoy638&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=binoy638&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoy638&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8" />
 
 </div>
 
