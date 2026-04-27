@@ -1,99 +1,114 @@
-<h3 align="center"> Hi there 👋</h3>
+<div align="center">
 
-<p align="center">
-I'm Binoy Barman, a fullstack developer from India 🇮🇳
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Binoy%20Barman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20from%20India%20🇮🇳&descAlignY=60&descSize=18)
 
+<a href="https://github.com/binoy638">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Building+things+for+the+web;Fullstack+JavaScript+%2B+Python;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-## Tech Stack :computer:
+</div>
 
-<br>
-<table>
-<tbody>
+---
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> 
-<img height=60px src="https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/js2.jpg"> 
-</td>
+### 👨‍💻 About Me
 
-<td align="center" width="20%">
-<span><b><center>Typescript</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> 
-</td>
+```yaml
+name: Binoy Barman
+role: Fullstack Developer
+location: India
+focus:
+  - Building scalable web applications
+  - Crafting clean APIs and developer tools
+  - Exploring distributed systems
+currently_learning: System Design & Cloud Architecture
+fun_fact: I debug with console.log and I'm not ashamed
+```
 
-<td align="center" width="20%">
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"> 
-</td>
+---
 
-</tr>
-<tr>
-<td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> 
-</td>
+### 🛠️ Tech Stack
 
-<td align="center" width="20%">
-<img height=65px src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png"> 
-</td>
+<div align="center">
 
-<td align="center" width="20%">
-<span><b><center>ElectronJs</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"> 
-</td>
-</tr>
+**Languages**
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"> 
-</td>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<td align="center" width="20%">
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
+**Frontend**
 
-<td align="center" width="20%">
-<img height=65px src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"> 
-</td>
-</tr>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://cdn-images-1.medium.com/max/1600/1*BXaikL4vYodnbw5LhCuL4w.png"> 
-</td>
+**Backend**
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png"> 
-</td>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png"> 
-</td>
-</tr>
+**Databases & Messaging**
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>GraphQL</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"> 
-</td>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<td align="center" width="20%">
-<span><b><center>PostgreSQL</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"> 
-</td>
+**DevOps & Tools**
 
-<td align="center" width="20%">
-<span><b><center>RabbitMQ</center></b></span> 
-<img height=65px src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png"> 
-</td>
-</tr>
-</tbody>
-</table>
-<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=binoy638&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="binoy638's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoy638&langs_count=8&layout=compact&theme=buefy&hide_border=true" /></span>
+</div>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=binoy638&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=binoy638&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binoy638&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=binoy638&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/binoy638"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=binoy638&style=for-the-badge&color=667EEA)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+
+</div>
